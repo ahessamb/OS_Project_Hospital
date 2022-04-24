@@ -1,3 +1,3 @@
 "# OS_Project_Hospital" 
 
-run main method in Hospital class to see results :))
+Run the main method in the Hospital class to see the results :))
